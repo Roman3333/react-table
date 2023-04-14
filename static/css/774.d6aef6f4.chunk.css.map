@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/774.d6aef6f4.chunk.css","mappings":"AACE,6BACE","sources":["pages/ProjectReport/projectReport.module.scss"],"sourcesContent":[".top {\r\n  &Div {\r\n    display: flex;\r\n  }\r\n}\r\n"],"names":[],"sourceRoot":""}

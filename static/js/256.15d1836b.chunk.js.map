@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/256.15d1836b.chunk.js","mappings":"wHAIA,UAJiB,WACf,OAAOA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,2NACd,C","sources":["pages/NotFound/NotFound.jsx"],"sourcesContent":["const NotFound = () => {\r\n  return <div>К сожалению такой страницы не существует</div>;\r\n};\r\n\r\nexport default NotFound;\r\n"],"names":["_jsx","children"],"sourceRoot":""}

@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-table/static/css/main.7b5d9ed6.css",
+    "main.js": "/react-table/static/js/main.ae60c89d.js",
+    "static/js/566.88daef9d.chunk.js": "/react-table/static/js/566.88daef9d.chunk.js",
+    "static/css/774.d6aef6f4.chunk.css": "/react-table/static/css/774.d6aef6f4.chunk.css",
+    "static/js/774.dd50fe11.chunk.js": "/react-table/static/js/774.dd50fe11.chunk.js",
+    "static/js/256.15d1836b.chunk.js": "/react-table/static/js/256.15d1836b.chunk.js",
+    "static/js/498.6ef104e1.chunk.js": "/react-table/static/js/498.6ef104e1.chunk.js",
+    "static/js/703.2553bc7f.chunk.js": "/react-table/static/js/703.2553bc7f.chunk.js",
+    "static/js/258.e13eb879.chunk.js": "/react-table/static/js/258.e13eb879.chunk.js",
+    "static/media/2.jpg": "/react-table/static/media/2.e8eb648b91164928885e.jpg",
+    "static/media/1.jpeg": "/react-table/static/media/1.d908836ec90410cd49d1.jpeg",
+    "static/media/logo.svg": "/react-table/static/media/logo.05a7daefa72d1930dd76a8fb87360dd7.svg",
+    "static/media/Contacts.svg": "/react-table/static/media/Contacts.898f9ae8defafb509d8a9e358f75d00c.svg",
+    "index.html": "/react-table/index.html",
+    "static/media/Project.svg": "/react-table/static/media/Project.66264f8c8054e599c304b171c52ec6ab.svg",
+    "static/media/exit.svg": "/react-table/static/media/exit.797d6887f43f80736f54ffbfa22f7fc3.svg",
+    "static/media/Calendar.svg": "/react-table/static/media/Calendar.184421af61d8dfea6c53f70d6dfa672b.svg",
+    "main.7b5d9ed6.css.map": "/react-table/static/css/main.7b5d9ed6.css.map",
+    "main.ae60c89d.js.map": "/react-table/static/js/main.ae60c89d.js.map",
+    "566.88daef9d.chunk.js.map": "/react-table/static/js/566.88daef9d.chunk.js.map",
+    "774.d6aef6f4.chunk.css.map": "/react-table/static/css/774.d6aef6f4.chunk.css.map",
+    "774.dd50fe11.chunk.js.map": "/react-table/static/js/774.dd50fe11.chunk.js.map",
+    "256.15d1836b.chunk.js.map": "/react-table/static/js/256.15d1836b.chunk.js.map",
+    "498.6ef104e1.chunk.js.map": "/react-table/static/js/498.6ef104e1.chunk.js.map",
+    "703.2553bc7f.chunk.js.map": "/react-table/static/js/703.2553bc7f.chunk.js.map",
+    "258.e13eb879.chunk.js.map": "/react-table/static/js/258.e13eb879.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5d9ed6.css",
+    "static/js/main.ae60c89d.js"
+  ]
+}
