@@ -2,6 +2,7 @@ import { useState, lazy, Suspense } from 'react';
 import { Routes, Route } from 'react-router-dom';
 
 import TotalContacts from './pages/TotalContacts/TotalContacts';
+import Login from './pages/Login/Login';
 import { Layout } from './components';
 
 const CalendarPage = lazy(() => import('./pages/Calendar/Calendar'));
@@ -9,18 +10,14 @@ const ProjectReportPage = lazy(() => import('./pages/ProjectReport/ProjectReport
 const NotFoundPage = lazy(() => import('./pages/NotFound/NotFound'));
 
 function App() {
-  const [login, setLogin] = useState({
-    login: 'vdcom@mail.com',
-    password: 12345,
-  });
   const [isAuth, setIsAuth] = useState(false);
 
   return (
     <>
       {isAuth ? (
-        <main className="App">
+        <>
           <Routes>
-            <Route path="/" element={<Layout />}>
+            <Route path="/" element={<Layout setIsAuth={setIsAuth} />}>
               <Route index element={<TotalContacts />} />
               <Route
                 path="calendar"
@@ -49,9 +46,9 @@ function App() {
             </Route>
             ы
           </Routes>
-        </main>
+        </>
       ) : (
-        <div>Логин</div>
+        <Login setIsAuth={setIsAuth} />
       )}
     </>
   );

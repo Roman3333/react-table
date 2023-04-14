@@ -1,0 +1,41 @@
+.aside {
+  min-width: 200px;
+  max-width: 200px;
+  background: #ffffff;
+
+  &Nav {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &Li {
+    margin-bottom: 20px;
+
+    &:hover {
+      background: rgba(218, 205, 174, 0.2);
+    }
+  }
+
+  &Img {
+    margin-right: 10px;
+  }
+
+  &LiActive {
+    background: rgba(237, 188, 74, 0.2);
+  }
+
+  &Link {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    color: black;
+  }
+
+  &Bottom {
+    margin: auto 0 25px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+  }
+}
